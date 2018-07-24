@@ -1,1 +1,6 @@
-/* CSS declarations go here */
+body{
+    text-align: center;
+    background: #fff;
+    font-family: sans-serif;
+    font-weight: 100;
+}
